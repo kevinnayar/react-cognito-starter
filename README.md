@@ -7,7 +7,7 @@ A bootstrapped starter kit for [React](https://reactjs.org/) and [AWS Cognito](h
 * Signup
 * Signup Confirmation Code
 
-Styled with [Ant Design](https://ant.design/).
+Uses [Ant Design](https://ant.design/) for design and [Jest](https://jestjs.io/) for testing.
 
 
 
